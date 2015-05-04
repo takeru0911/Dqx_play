@@ -1,0 +1,1290 @@
+[
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4150",
+    "kind_name": "料理",
+    "item_name": "クイックケーキ",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "しんせんたまご",
+        "material_id": "3904",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3904"
+      },
+      {
+        "material_require": "1",
+        "material_name": "おいしいミルク",
+        "material_id": "3905",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3905"
+      },
+      {
+        "material_require": "1",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4150"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4151",
+    "kind_name": "料理",
+    "item_name": "ゴージャスクッキー",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "しんせんたまご",
+        "material_id": "3904",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3904"
+      },
+      {
+        "material_require": "1",
+        "material_name": "花のみつ",
+        "material_id": "41",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/41"
+      },
+      {
+        "material_require": "1",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4151"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4143",
+    "kind_name": "料理",
+    "item_name": "スタミナライス",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "やわらかい肉",
+        "material_id": "3902",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3902"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ライスフラワー",
+        "material_id": "3900",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3900"
+      },
+      {
+        "material_require": "2",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4143"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4144",
+    "kind_name": "料理",
+    "item_name": "マナパスタ",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "魚の切り身",
+        "material_id": "3906",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3906"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ふわふわ小麦",
+        "material_id": "3899",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3899"
+      },
+      {
+        "material_require": "2",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4144"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4149",
+    "kind_name": "料理",
+    "item_name": "きようさにくまん",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "やわらかい肉",
+        "material_id": "3902",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3902"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ジャンボ玉ネギ",
+        "material_id": "3897",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3897"
+      },
+      {
+        "material_require": "3",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4149"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4146",
+    "kind_name": "料理",
+    "item_name": "いやしのスープ",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "魚の切り身",
+        "material_id": "3906",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3906"
+      },
+      {
+        "material_require": "2",
+        "material_name": "まんまるポテト",
+        "material_id": "3896",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3896"
+      },
+      {
+        "material_require": "3",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4146"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4142",
+    "kind_name": "料理",
+    "item_name": "ガーディアンサラダ",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "魚の切り身",
+        "material_id": "3906",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3906"
+      },
+      {
+        "material_require": "3",
+        "material_name": "しゃっきりレタス",
+        "material_id": "3898",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3898"
+      },
+      {
+        "material_require": "4",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4142"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4428",
+    "kind_name": "料理",
+    "item_name": "お詫びの笹だんご",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "ライスフラワー",
+        "material_id": "3900",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3900"
+      },
+      {
+        "material_require": "4",
+        "material_name": "星々のナミダ",
+        "material_id": "4407",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/4407"
+      },
+      {
+        "material_require": "1",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4428"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4141",
+    "kind_name": "料理",
+    "item_name": "パワフルステーキ",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "やわらかい肉",
+        "material_id": "3902",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3902"
+      },
+      {
+        "material_require": "3",
+        "material_name": "まんまるポテト",
+        "material_id": "3896",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3896"
+      },
+      {
+        "material_require": "5",
+        "material_name": "こくうまソース",
+        "material_id": "3909",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3909"
+      },
+      {
+        "material_require": "5",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4141"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4145",
+    "kind_name": "料理",
+    "item_name": "マジカルサンド",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "魚の切り身",
+        "material_id": "3906",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3906"
+      },
+      {
+        "material_require": "3",
+        "material_name": "しゃっきりレタス",
+        "material_id": "3898",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3898"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ふわふわ小麦",
+        "material_id": "3899",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3899"
+      },
+      {
+        "material_require": "5",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4145"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4147",
+    "kind_name": "料理",
+    "item_name": "かいしんバーガー",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "やわらかい肉",
+        "material_id": "3902",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3902"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ふわふわ小麦",
+        "material_id": "3899",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3899"
+      },
+      {
+        "material_require": "5",
+        "material_name": "こくうまソース",
+        "material_id": "3909",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3909"
+      },
+      {
+        "material_require": "6",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4147"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4148",
+    "kind_name": "料理",
+    "item_name": "みかわしオムレツ",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "やわらかい肉",
+        "material_id": "3902",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3902"
+      },
+      {
+        "material_require": "3",
+        "material_name": "しんせんたまご",
+        "material_id": "3904",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3904"
+      },
+      {
+        "material_require": "10",
+        "material_name": "みかわしそう",
+        "material_id": "16",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/16"
+      },
+      {
+        "material_require": "6",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4148"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4152",
+    "kind_name": "料理",
+    "item_name": "メガもり丼",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "やわらかい肉",
+        "material_id": "3902",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3902"
+      },
+      {
+        "material_require": "3",
+        "material_name": "まんまるポテト",
+        "material_id": "3896",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3896"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ライスフラワー",
+        "material_id": "3900",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3900"
+      },
+      {
+        "material_require": "6",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4152"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4169",
+    "kind_name": "料理",
+    "item_name": "ライトタルト",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "おいしいミルク",
+        "material_id": "3905",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3905"
+      },
+      {
+        "material_require": "1",
+        "material_name": "天使のソーマ",
+        "material_id": "101",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/101"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ごくじょうソルト",
+        "material_id": "3908",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3908"
+      },
+      {
+        "material_require": "8",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4169"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4166",
+    "kind_name": "料理",
+    "item_name": "アイスタルト",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "しんせんたまご",
+        "material_id": "3904",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3904"
+      },
+      {
+        "material_require": "10",
+        "material_name": "氷のけっしょう",
+        "material_id": "35",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/35"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ごくじょうソルト",
+        "material_id": "3908",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3908"
+      },
+      {
+        "material_require": "8",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4166"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4165",
+    "kind_name": "料理",
+    "item_name": "ファイアタルト",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "しんせんたまご",
+        "material_id": "3904",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3904"
+      },
+      {
+        "material_require": "10",
+        "material_name": "レッドベリー",
+        "material_id": "46",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/46"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ごくじょうソルト",
+        "material_id": "3908",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3908"
+      },
+      {
+        "material_require": "8",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4165"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/5072",
+    "kind_name": "料理",
+    "item_name": "ファイアタルト・小",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "5",
+        "material_name": "しんせんたまご",
+        "material_id": "3904",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3904"
+      },
+      {
+        "material_require": "5",
+        "material_name": "レッドベリー",
+        "material_id": "46",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/46"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ごくじょうソルト",
+        "material_id": "3908",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3908"
+      },
+      {
+        "material_require": "4",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "5072"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/5073",
+    "kind_name": "料理",
+    "item_name": "アイスタルト・小",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "5",
+        "material_name": "しんせんたまご",
+        "material_id": "3904",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3904"
+      },
+      {
+        "material_require": "5",
+        "material_name": "氷のけっしょう",
+        "material_id": "35",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/35"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ごくじょうソルト",
+        "material_id": "3908",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3908"
+      },
+      {
+        "material_require": "4",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "5073"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/5074",
+    "kind_name": "料理",
+    "item_name": "ライトタルト・小",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "5",
+        "material_name": "おいしいミルク",
+        "material_id": "3905",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3905"
+      },
+      {
+        "material_require": "5",
+        "material_name": "きよめの水",
+        "material_id": "92",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/92"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ごくじょうソルト",
+        "material_id": "3908",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3908"
+      },
+      {
+        "material_require": "4",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "5074"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4167",
+    "kind_name": "料理",
+    "item_name": "ストームタルト",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "おいしいミルク",
+        "material_id": "3905",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3905"
+      },
+      {
+        "material_require": "10",
+        "material_name": "みかわしそう",
+        "material_id": "16",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/16"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ごくじょうソルト",
+        "material_id": "3908",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3908"
+      },
+      {
+        "material_require": "8",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4167"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4168",
+    "kind_name": "料理",
+    "item_name": "ダークタルト",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "おいしいミルク",
+        "material_id": "3905",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3905"
+      },
+      {
+        "material_require": "10",
+        "material_name": "カチコチくるみ",
+        "material_id": "12",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/12"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ごくじょうソルト",
+        "material_id": "3908",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3908"
+      },
+      {
+        "material_require": "8",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4168"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/5075",
+    "kind_name": "料理",
+    "item_name": "ダークタルト・小",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "5",
+        "material_name": "おいしいミルク",
+        "material_id": "3905",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3905"
+      },
+      {
+        "material_require": "5",
+        "material_name": "カチコチくるみ",
+        "material_id": "12",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/12"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ごくじょうソルト",
+        "material_id": "3908",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3908"
+      },
+      {
+        "material_require": "4",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "5075"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/5076",
+    "kind_name": "料理",
+    "item_name": "ストームタルト・小",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "5",
+        "material_name": "おいしいミルク",
+        "material_id": "3905",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3905"
+      },
+      {
+        "material_require": "5",
+        "material_name": "みかわしそう",
+        "material_id": "16",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/16"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ごくじょうソルト",
+        "material_id": "3908",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3908"
+      },
+      {
+        "material_require": "4",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "5076"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4163",
+    "kind_name": "料理",
+    "item_name": "スタースイーツ",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "おおとろの切り身",
+        "material_id": "3907",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3907"
+      },
+      {
+        "material_require": "6",
+        "material_name": "おいしいミルク",
+        "material_id": "3905",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3905"
+      },
+      {
+        "material_require": "3",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ごくじょうソルト",
+        "material_id": "3908",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3908"
+      },
+      {
+        "material_require": "12",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4163"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/5077",
+    "kind_name": "料理",
+    "item_name": "スタースイーツ・小",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "1",
+        "material_name": "おおとろの切り身",
+        "material_id": "3907",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3907"
+      },
+      {
+        "material_require": "3",
+        "material_name": "おいしいミルク",
+        "material_id": "3905",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3905"
+      },
+      {
+        "material_require": "2",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "6",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "5077"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4162",
+    "kind_name": "料理",
+    "item_name": "アクロバーガー",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "しもふりミート",
+        "material_id": "3903",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3903"
+      },
+      {
+        "material_require": "6",
+        "material_name": "しゃっきりレタス",
+        "material_id": "3898",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3898"
+      },
+      {
+        "material_require": "3",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ピリからペッパー",
+        "material_id": "3910",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3910"
+      },
+      {
+        "material_require": "12",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4162"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/5061",
+    "kind_name": "料理",
+    "item_name": "アクロバーガー・小",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "1",
+        "material_name": "しもふりミート",
+        "material_id": "3903",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3903"
+      },
+      {
+        "material_require": "3",
+        "material_name": "しゃっきりレタス",
+        "material_id": "3898",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3898"
+      },
+      {
+        "material_require": "2",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ピリからペッパー",
+        "material_id": "3910",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3910"
+      },
+      {
+        "material_require": "6",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "5061"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4161",
+    "kind_name": "料理",
+    "item_name": "バランスパスタ",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "おおとろの切り身",
+        "material_id": "3907",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3907"
+      },
+      {
+        "material_require": "6",
+        "material_name": "ふわふわ小麦",
+        "material_id": "3899",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3899"
+      },
+      {
+        "material_require": "3",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "3",
+        "material_name": "こくうまソース",
+        "material_id": "3909",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3909"
+      },
+      {
+        "material_require": "12",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4161"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/5069",
+    "kind_name": "料理",
+    "item_name": "バランスパスタ・小",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "1",
+        "material_name": "おおとろの切り身",
+        "material_id": "3907",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3907"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ふわふわ小麦",
+        "material_id": "3899",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3899"
+      },
+      {
+        "material_require": "2",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "2",
+        "material_name": "こくうまソース",
+        "material_id": "3909",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3909"
+      },
+      {
+        "material_require": "6",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "5069"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4159",
+    "kind_name": "料理",
+    "item_name": "いやしのムニエル",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "おおとろの切り身",
+        "material_id": "3907",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3907"
+      },
+      {
+        "material_require": "6",
+        "material_name": "ふわふわ小麦",
+        "material_id": "3899",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3899"
+      },
+      {
+        "material_require": "3",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ごくじょうソルト",
+        "material_id": "3908",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3908"
+      },
+      {
+        "material_require": "12",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4159"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/5064",
+    "kind_name": "料理",
+    "item_name": "いやしのムニエル・小",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "1",
+        "material_name": "おおとろの切り身",
+        "material_id": "3907",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3907"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ふわふわ小麦",
+        "material_id": "3899",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3899"
+      },
+      {
+        "material_require": "2",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ごくじょうソルト",
+        "material_id": "3908",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3908"
+      },
+      {
+        "material_require": "6",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "5064"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4160",
+    "kind_name": "料理",
+    "item_name": "あいじょうオムレツ",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "しもふりミート",
+        "material_id": "3903",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3903"
+      },
+      {
+        "material_require": "6",
+        "material_name": "しんせんたまご",
+        "material_id": "3904",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3904"
+      },
+      {
+        "material_require": "3",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "3",
+        "material_name": "こくうまソース",
+        "material_id": "3909",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3909"
+      },
+      {
+        "material_require": "12",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4160"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/5062",
+    "kind_name": "料理",
+    "item_name": "あいじょうオムレツ小",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "1",
+        "material_name": "しもふりミート",
+        "material_id": "3903",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3903"
+      },
+      {
+        "material_require": "3",
+        "material_name": "しんせんたまご",
+        "material_id": "3904",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3904"
+      },
+      {
+        "material_require": "2",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "2",
+        "material_name": "こくうまソース",
+        "material_id": "3909",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3909"
+      },
+      {
+        "material_require": "6",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "5062"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4157",
+    "kind_name": "料理",
+    "item_name": "マジックスープ",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "おおとろの切り身",
+        "material_id": "3907",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3907"
+      },
+      {
+        "material_require": "6",
+        "material_name": "しゃっきりレタス",
+        "material_id": "3898",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3898"
+      },
+      {
+        "material_require": "4",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "4",
+        "material_name": "ピリからペッパー",
+        "material_id": "3910",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3910"
+      },
+      {
+        "material_require": "16",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4157"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4158",
+    "kind_name": "料理",
+    "item_name": "ミラクルサンド",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "おおとろの切り身",
+        "material_id": "3907",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3907"
+      },
+      {
+        "material_require": "6",
+        "material_name": "ジャンボ玉ネギ",
+        "material_id": "3897",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3897"
+      },
+      {
+        "material_require": "4",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "4",
+        "material_name": "こくうまソース",
+        "material_id": "3909",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3909"
+      },
+      {
+        "material_require": "16",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "4158"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/5065",
+    "kind_name": "料理",
+    "item_name": "マジックスープ・小",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "おおとろの切り身",
+        "material_id": "3907",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3907"
+      },
+      {
+        "material_require": "3",
+        "material_name": "しゃっきりレタス",
+        "material_id": "3898",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3898"
+      },
+      {
+        "material_require": "2",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ピリからペッパー",
+        "material_id": "3910",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3910"
+      },
+      {
+        "material_require": "8",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "5065"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/5066",
+    "kind_name": "料理",
+    "item_name": "ミラクルサンド・小",
+    "kind_id": "401",
+    "kind_url": "/r/dqx/bazaar_list/top/401",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "おおとろの切り身",
+        "material_id": "3907",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3907"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ジャンボ玉ネギ",
+        "material_id": "3897",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3897"
+      },
+      {
+        "material_require": "2",
+        "material_name": "びっくりトマト",
+        "material_id": "3901",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3901"
+      },
+      {
+        "material_require": "2",
+        "material_name": "こくうまソース",
+        "material_id": "3909",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3909"
+      },
+      {
+        "material_require": "8",
+        "material_name": "デリシャスオイル",
+        "material_id": "3911",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3911"
+      }
+    ],
+    "id": "5066"
+  }
+]

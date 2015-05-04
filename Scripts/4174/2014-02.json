@@ -1,0 +1,42 @@
+[
+  {
+    "time": "14/02/28 22時",
+    "star1": {
+      "price": "12,100",
+      "exhibits": "67 "
+    },
+    "star0": {
+      "price": "12,100",
+      "exhibits": "33 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "id": "4174"
+  },
+  {
+    "time": "14/02/28 15時",
+    "star1": {
+      "price": "13,100",
+      "exhibits": "64 "
+    },
+    "star0": {
+      "price": "12,700",
+      "exhibits": "36 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "id": "4174"
+  }
+]

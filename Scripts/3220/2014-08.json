@@ -1,0 +1,1242 @@
+[
+  {
+    "time": "14/08/31 12時",
+    "star1": {
+      "price": "95,000",
+      "exhibits": "4 "
+    },
+    "star0": {
+      "price": "88,500",
+      "exhibits": "8 "
+    },
+    "star3": {
+      "price": "427,000",
+      "exhibits": "9 "
+    },
+    "star2": {
+      "price": "175,000",
+      "exhibits": "16 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/31 00時",
+    "star1": {
+      "price": "91,500",
+      "exhibits": "8 "
+    },
+    "star0": {
+      "price": "88,500",
+      "exhibits": "8 "
+    },
+    "star3": {
+      "price": "425,000",
+      "exhibits": "16 "
+    },
+    "star2": {
+      "price": "175,000",
+      "exhibits": "16 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/30 12時",
+    "star1": {
+      "price": "92,000",
+      "exhibits": "8 "
+    },
+    "star0": {
+      "price": "89,000",
+      "exhibits": "4 "
+    },
+    "star3": {
+      "price": "426,000",
+      "exhibits": "6 "
+    },
+    "star2": {
+      "price": "185,000",
+      "exhibits": "5 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/30 00時",
+    "star1": {
+      "price": "96,000",
+      "exhibits": "7 "
+    },
+    "star0": {
+      "price": "83,000",
+      "exhibits": "3 "
+    },
+    "star3": {
+      "price": "430,000",
+      "exhibits": "10 "
+    },
+    "star2": {
+      "price": "133,000",
+      "exhibits": "8 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/29 12時",
+    "star1": {
+      "price": "96,000",
+      "exhibits": "8 "
+    },
+    "star0": {
+      "price": "80,000",
+      "exhibits": "4 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "133,000",
+      "exhibits": "8 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/29 00時",
+    "star1": {
+      "price": "97,500",
+      "exhibits": "6 "
+    },
+    "star0": {
+      "price": "84,000",
+      "exhibits": "5 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "133,000",
+      "exhibits": "9 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/28 12時",
+    "star1": {
+      "price": "100,000",
+      "exhibits": "1 "
+    },
+    "star0": {
+      "price": "84,000",
+      "exhibits": "8 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "130,000",
+      "exhibits": "6 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/28 00時",
+    "star1": {
+      "price": "91,900",
+      "exhibits": "6 "
+    },
+    "star0": {
+      "price": "84,800",
+      "exhibits": "9 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "127,000",
+      "exhibits": "9 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/27 12時",
+    "star1": {
+      "price": "95,000",
+      "exhibits": "7 "
+    },
+    "star0": {
+      "price": "87,900",
+      "exhibits": "5 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "128,000",
+      "exhibits": "25 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/27 00時",
+    "star1": {
+      "price": "96,000",
+      "exhibits": "8 "
+    },
+    "star0": {
+      "price": "93,800",
+      "exhibits": "6 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "129,000",
+      "exhibits": "26 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/26 12時",
+    "star1": {
+      "price": "99,000",
+      "exhibits": "7 "
+    },
+    "star0": {
+      "price": "95,000",
+      "exhibits": "5 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "136,000",
+      "exhibits": "22 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/26 00時",
+    "star1": {
+      "price": "105,000",
+      "exhibits": "6 "
+    },
+    "star0": {
+      "price": "99,000",
+      "exhibits": "3 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "140,000",
+      "exhibits": "25 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/25 12時",
+    "star1": {
+      "price": "105,000",
+      "exhibits": "5 "
+    },
+    "star0": {
+      "price": "85,000",
+      "exhibits": "6 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "149,000",
+      "exhibits": "31 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/25 00時",
+    "star1": {
+      "price": "109,000",
+      "exhibits": "2 "
+    },
+    "star0": {
+      "price": "90,000",
+      "exhibits": "4 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "149,000",
+      "exhibits": "28 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/24 12時",
+    "star1": {
+      "price": "94,900",
+      "exhibits": "4 "
+    },
+    "star0": {
+      "price": "99,000",
+      "exhibits": "4 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "151,000",
+      "exhibits": "19 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/24 00時",
+    "star1": {
+      "price": "96,000",
+      "exhibits": "5 "
+    },
+    "star0": {
+      "price": "90,000",
+      "exhibits": "1 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "151,000",
+      "exhibits": "16 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/23 12時",
+    "star1": {
+      "price": "97,000",
+      "exhibits": "7 "
+    },
+    "star0": {
+      "price": "90,000",
+      "exhibits": "4 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "160,000",
+      "exhibits": "9 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/23 00時",
+    "star1": {
+      "price": "97,000",
+      "exhibits": "8 "
+    },
+    "star0": {
+      "price": "79,900",
+      "exhibits": "7 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "144,000",
+      "exhibits": "6 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/22 12時",
+    "star1": {
+      "price": "109,000",
+      "exhibits": "5 "
+    },
+    "star0": {
+      "price": "99,000",
+      "exhibits": "6 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "144,000",
+      "exhibits": "26 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/22 00時",
+    "star1": {
+      "price": "109,000",
+      "exhibits": "3 "
+    },
+    "star0": {
+      "price": "99,000",
+      "exhibits": "6 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "145,000",
+      "exhibits": "23 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/21 12時",
+    "star1": {
+      "price": "105,000",
+      "exhibits": "7 "
+    },
+    "star0": {
+      "price": "80,000",
+      "exhibits": "7 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "149,000",
+      "exhibits": "23 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/21 00時",
+    "star1": {
+      "price": "100,000",
+      "exhibits": "12 "
+    },
+    "star0": {
+      "price": "100,000",
+      "exhibits": "6 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "150,000",
+      "exhibits": "25 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/20 12時",
+    "star1": {
+      "price": "103,000",
+      "exhibits": "12 "
+    },
+    "star0": {
+      "price": "100,000",
+      "exhibits": "4 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "150,000",
+      "exhibits": "28 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/20 00時",
+    "star1": {
+      "price": "105,000",
+      "exhibits": "11 "
+    },
+    "star0": {
+      "price": "104,000",
+      "exhibits": "4 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "150,000",
+      "exhibits": "34 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/19 12時",
+    "star1": {
+      "price": "115,000",
+      "exhibits": "9 "
+    },
+    "star0": {
+      "price": "104,000",
+      "exhibits": "3 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "154,000",
+      "exhibits": "32 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/19 00時",
+    "star1": {
+      "price": "110,000",
+      "exhibits": "12 "
+    },
+    "star0": {
+      "price": "104,000",
+      "exhibits": "4 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "157,000",
+      "exhibits": "30 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/18 12時",
+    "star1": {
+      "price": "118,000",
+      "exhibits": "3 "
+    },
+    "star0": {
+      "price": "104,000",
+      "exhibits": "6 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "163,000",
+      "exhibits": "26 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/18 00時",
+    "star1": {
+      "price": "118,000",
+      "exhibits": "3 "
+    },
+    "star0": {
+      "price": "104,000",
+      "exhibits": "7 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "166,000",
+      "exhibits": "24 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/17 12時",
+    "star1": {
+      "price": "118,000",
+      "exhibits": "4 "
+    },
+    "star0": {
+      "price": "99,000",
+      "exhibits": "8 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "170,000",
+      "exhibits": "16 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/17 00時",
+    "star1": {
+      "price": "118,000",
+      "exhibits": "5 "
+    },
+    "star0": {
+      "price": "104,000",
+      "exhibits": "5 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "176,000",
+      "exhibits": "13 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/16 12時",
+    "star1": {
+      "price": "111,000",
+      "exhibits": "10 "
+    },
+    "star0": {
+      "price": "109,000",
+      "exhibits": "6 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "177,000",
+      "exhibits": "13 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/16 00時",
+    "star1": {
+      "price": "111,000",
+      "exhibits": "9 "
+    },
+    "star0": {
+      "price": "109,000",
+      "exhibits": "3 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "184,000",
+      "exhibits": "15 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/15 12時",
+    "star1": {
+      "price": "110,000",
+      "exhibits": "10 "
+    },
+    "star0": {
+      "price": "116,000",
+      "exhibits": "6 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "184,000",
+      "exhibits": "14 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/15 00時",
+    "star1": {
+      "price": "125,000",
+      "exhibits": "14 "
+    },
+    "star0": {
+      "price": "100,000",
+      "exhibits": "10 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "184,000",
+      "exhibits": "10 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/14 12時",
+    "star1": {
+      "price": "128,000",
+      "exhibits": "17 "
+    },
+    "star0": {
+      "price": "116,000",
+      "exhibits": "10 "
+    },
+    "star3": {
+      "price": "399,000",
+      "exhibits": "12 "
+    },
+    "star2": {
+      "price": "185,000",
+      "exhibits": "17 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/14 00時",
+    "star1": {
+      "price": "138,000",
+      "exhibits": "17 "
+    },
+    "star0": {
+      "price": "114,000",
+      "exhibits": "11 "
+    },
+    "star3": {
+      "price": "399,000",
+      "exhibits": "19 "
+    },
+    "star2": {
+      "price": "185,000",
+      "exhibits": "18 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/13 12時",
+    "star1": {
+      "price": "138,000",
+      "exhibits": "15 "
+    },
+    "star0": {
+      "price": "116,000",
+      "exhibits": "11 "
+    },
+    "star3": {
+      "price": "399,000",
+      "exhibits": "6 "
+    },
+    "star2": {
+      "price": "185,000",
+      "exhibits": "22 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/13 00時",
+    "star1": {
+      "price": "140,000",
+      "exhibits": "15 "
+    },
+    "star0": {
+      "price": "116,000",
+      "exhibits": "10 "
+    },
+    "star3": {
+      "price": "400,000",
+      "exhibits": "11 "
+    },
+    "star2": {
+      "price": "190,000",
+      "exhibits": "22 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/12 12時",
+    "star1": {
+      "price": "149,000",
+      "exhibits": "6 "
+    },
+    "star0": {
+      "price": "118,000",
+      "exhibits": "9 "
+    },
+    "star3": {
+      "price": "430,000",
+      "exhibits": "25 "
+    },
+    "star2": {
+      "price": "206,000",
+      "exhibits": "8 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/12 00時",
+    "star1": {
+      "price": "170,000",
+      "exhibits": "3 "
+    },
+    "star0": {
+      "price": "118,000",
+      "exhibits": "8 "
+    },
+    "star3": {
+      "price": "444,000",
+      "exhibits": "14 "
+    },
+    "star2": {
+      "price": "206,000",
+      "exhibits": "9 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/11 12時",
+    "star1": {
+      "price": "178,000",
+      "exhibits": "2 "
+    },
+    "star0": {
+      "price": "118,000",
+      "exhibits": "6 "
+    },
+    "star3": {
+      "price": "449,000",
+      "exhibits": "6 "
+    },
+    "star2": {
+      "price": "206,000",
+      "exhibits": "10 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/11 00時",
+    "star1": {
+      "price": "178,000",
+      "exhibits": "2 "
+    },
+    "star0": {
+      "price": "119,000",
+      "exhibits": "4 "
+    },
+    "star3": {
+      "price": "450,000",
+      "exhibits": "3 "
+    },
+    "star2": {
+      "price": "206,000",
+      "exhibits": "11 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/10 12時",
+    "star1": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star0": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star3": {
+      "price": "380,000",
+      "exhibits": "8 "
+    },
+    "star2": {
+      "price": "166,000",
+      "exhibits": "1 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/10 00時",
+    "star1": {
+      "price": "140,000",
+      "exhibits": "2 "
+    },
+    "star0": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star3": {
+      "price": "382,000",
+      "exhibits": "8 "
+    },
+    "star2": {
+      "price": "163,000",
+      "exhibits": "8 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/09 12時",
+    "star1": {
+      "price": "100,000",
+      "exhibits": "3 "
+    },
+    "star0": {
+      "price": "87,700",
+      "exhibits": "3 "
+    },
+    "star3": {
+      "price": "387,000",
+      "exhibits": "9 "
+    },
+    "star2": {
+      "price": "163,000",
+      "exhibits": "13 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/09 00時",
+    "star1": {
+      "price": "100,000",
+      "exhibits": "3 "
+    },
+    "star0": {
+      "price": "87,700",
+      "exhibits": "3 "
+    },
+    "star3": {
+      "price": "382,000",
+      "exhibits": "9 "
+    },
+    "star2": {
+      "price": "166,000",
+      "exhibits": "8 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/08 12時",
+    "star1": {
+      "price": "106,000",
+      "exhibits": "4 "
+    },
+    "star0": {
+      "price": "83,000",
+      "exhibits": "7 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "167,000",
+      "exhibits": "24 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/08 00時",
+    "star1": {
+      "price": "121,000",
+      "exhibits": "3 "
+    },
+    "star0": {
+      "price": "83,000",
+      "exhibits": "10 "
+    },
+    "star3": {
+      "price": "370,000",
+      "exhibits": "5 "
+    },
+    "star2": {
+      "price": "171,000",
+      "exhibits": "13 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/07 12時",
+    "star1": {
+      "price": "121,000",
+      "exhibits": "6 "
+    },
+    "star0": {
+      "price": "87,700",
+      "exhibits": "17 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "172,000",
+      "exhibits": "21 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/07 00時",
+    "star1": {
+      "price": "121,000",
+      "exhibits": "7 "
+    },
+    "star0": {
+      "price": "90,000",
+      "exhibits": "13 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "173,000",
+      "exhibits": "18 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/06 12時",
+    "star1": {
+      "price": "121,000",
+      "exhibits": "5 "
+    },
+    "star0": {
+      "price": "108,000",
+      "exhibits": "12 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "174,000",
+      "exhibits": "18 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/06 00時",
+    "star1": {
+      "price": "121,000",
+      "exhibits": "7 "
+    },
+    "star0": {
+      "price": "108,000",
+      "exhibits": "12 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "180,000",
+      "exhibits": "11 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/05 12時",
+    "star1": {
+      "price": "130,000",
+      "exhibits": "7 "
+    },
+    "star0": {
+      "price": "109,000",
+      "exhibits": "10 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "169,000",
+      "exhibits": "25 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/05 00時",
+    "star1": {
+      "price": "130,000",
+      "exhibits": "6 "
+    },
+    "star0": {
+      "price": "110,000",
+      "exhibits": "12 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "169,000",
+      "exhibits": "30 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/04 12時",
+    "star1": {
+      "price": "137,000",
+      "exhibits": "3 "
+    },
+    "star0": {
+      "price": "130,000",
+      "exhibits": "5 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "175,000",
+      "exhibits": "24 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/04 00時",
+    "star1": {
+      "price": "137,000",
+      "exhibits": "3 "
+    },
+    "star0": {
+      "price": "130,000",
+      "exhibits": "5 "
+    },
+    "star3": {
+      "price": "428,000",
+      "exhibits": "8 "
+    },
+    "star2": {
+      "price": "199,000",
+      "exhibits": "19 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/03 12時",
+    "star1": {
+      "price": "137,000",
+      "exhibits": "6 "
+    },
+    "star0": {
+      "price": "131,000",
+      "exhibits": "4 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "209,000",
+      "exhibits": "16 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/03 00時",
+    "star1": {
+      "price": "137,000",
+      "exhibits": "7 "
+    },
+    "star0": {
+      "price": "132,000",
+      "exhibits": "6 "
+    },
+    "star3": {
+      "price": "363,000",
+      "exhibits": "5 "
+    },
+    "star2": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/02 12時",
+    "star1": {
+      "price": "137,000",
+      "exhibits": "8 "
+    },
+    "star0": {
+      "price": "133,000",
+      "exhibits": "9 "
+    },
+    "star3": {
+      "price": "",
+      "exhibits": ""
+    },
+    "star2": {
+      "price": "165,000",
+      "exhibits": "21 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/02 00時",
+    "star1": {
+      "price": "137,000",
+      "exhibits": "7 "
+    },
+    "star0": {
+      "price": "133,000",
+      "exhibits": "4 "
+    },
+    "star3": {
+      "price": "363,000",
+      "exhibits": "1 "
+    },
+    "star2": {
+      "price": "169,000",
+      "exhibits": "13 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/01 12時",
+    "star1": {
+      "price": "138,000",
+      "exhibits": "5 "
+    },
+    "star0": {
+      "price": "134,000",
+      "exhibits": "5 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "169,000",
+      "exhibits": "30 "
+    },
+    "id": "3220"
+  },
+  {
+    "time": "14/08/01 00時",
+    "star1": {
+      "price": "138,000",
+      "exhibits": "5 "
+    },
+    "star0": {
+      "price": "134,000",
+      "exhibits": "5 "
+    },
+    "star3": {
+      "price": "--",
+      "exhibits": "--"
+    },
+    "star2": {
+      "price": "176,000",
+      "exhibits": "26 "
+    },
+    "id": "3220"
+  }
+]

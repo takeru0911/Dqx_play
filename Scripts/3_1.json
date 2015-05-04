@@ -1,0 +1,1886 @@
+﻿[
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/739",
+    "kind_name": "さいほう針",
+    "item_name": "銅のさいほう針",
+    "kind_id": "303",
+    "kind_url": "/r/dqx/bazaar_list/top/303",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "どうのこうせき",
+        "material_id": "8",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/8"
+      }
+    ],
+    "id": "739"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/735",
+    "kind_name": "木工刀",
+    "item_name": "銅の木工刀",
+    "kind_id": "302",
+    "kind_url": "/r/dqx/bazaar_list/top/302",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "どうのこうせき",
+        "material_id": "8",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/8"
+      }
+    ],
+    "id": "735"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/747",
+    "kind_name": "錬金ランプ",
+    "item_name": "銅の錬金ランプ",
+    "kind_id": "305",
+    "kind_url": "/r/dqx/bazaar_list/top/305",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "どうのこうせき",
+        "material_id": "8",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/8"
+      }
+    ],
+    "id": "747"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/731",
+    "kind_name": "鍛冶ハンマー",
+    "item_name": "銅の鍛冶ハンマー",
+    "kind_id": "301",
+    "kind_url": "/r/dqx/bazaar_list/top/301",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "どうのこうせき",
+        "material_id": "8",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/8"
+      }
+    ],
+    "id": "731"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4172",
+    "kind_name": "フライパン",
+    "item_name": "銅のフライパン",
+    "kind_id": "306",
+    "kind_url": "/r/dqx/bazaar_list/top/306",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "どうのこうせき",
+        "material_id": "8",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/8"
+      }
+    ],
+    "id": "4172"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/743",
+    "kind_name": "錬金ツボ",
+    "item_name": "銅の錬金ツボ",
+    "kind_id": "304",
+    "kind_url": "/r/dqx/bazaar_list/top/304",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "どうのこうせき",
+        "material_id": "8",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/8"
+      }
+    ],
+    "id": "743"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/740",
+    "kind_name": "さいほう針",
+    "item_name": "鉄のさいほう針",
+    "kind_id": "303",
+    "kind_url": "/r/dqx/bazaar_list/top/303",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "てっこうせき",
+        "material_id": "9",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/9"
+      },
+      {
+        "material_require": "2",
+        "material_name": "するどいキバ",
+        "material_id": "67",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/67"
+      }
+    ],
+    "id": "740"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/737",
+    "kind_name": "木工刀",
+    "item_name": "鉄の木工刀",
+    "kind_id": "302",
+    "kind_url": "/r/dqx/bazaar_list/top/302",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "てっこうせき",
+        "material_id": "9",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/9"
+      },
+      {
+        "material_require": "2",
+        "material_name": "するどい爪",
+        "material_id": "21",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/21"
+      }
+    ],
+    "id": "737"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/748",
+    "kind_name": "錬金ランプ",
+    "item_name": "鉄の錬金ランプ",
+    "kind_id": "305",
+    "kind_url": "/r/dqx/bazaar_list/top/305",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "てっこうせき",
+        "material_id": "9",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/9"
+      },
+      {
+        "material_require": "2",
+        "material_name": "小さな化石",
+        "material_id": "13",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/13"
+      }
+    ],
+    "id": "748"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3127",
+    "kind_name": "鍛冶ハンマー",
+    "item_name": "七夕の鍛冶ハンマー",
+    "kind_id": "301",
+    "kind_url": "/r/dqx/bazaar_list/top/301",
+    "materials": [
+      {
+        "material_require": "8",
+        "material_name": "晴れ呼びの笹",
+        "material_id": "2816",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/2816"
+      },
+      {
+        "material_require": "2",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "4",
+        "material_name": "氷のけっしょう",
+        "material_id": "35",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/35"
+      }
+    ],
+    "id": "3127"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3128",
+    "kind_name": "木工刀",
+    "item_name": "七夕の木工刀",
+    "kind_id": "302",
+    "kind_url": "/r/dqx/bazaar_list/top/302",
+    "materials": [
+      {
+        "material_require": "8",
+        "material_name": "晴れ呼びの笹",
+        "material_id": "2816",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/2816"
+      },
+      {
+        "material_require": "2",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "4",
+        "material_name": "小さなホネ",
+        "material_id": "61",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/61"
+      }
+    ],
+    "id": "3128"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3129",
+    "kind_name": "さいほう針",
+    "item_name": "七夕のさいほう針",
+    "kind_id": "303",
+    "kind_url": "/r/dqx/bazaar_list/top/303",
+    "materials": [
+      {
+        "material_require": "8",
+        "material_name": "晴れ呼びの笹",
+        "material_id": "2816",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/2816"
+      },
+      {
+        "material_require": "2",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "4",
+        "material_name": "小さな貝がら",
+        "material_id": "79",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/79"
+      }
+    ],
+    "id": "3129"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3131",
+    "kind_name": "錬金ランプ",
+    "item_name": "七夕の錬金ランプ",
+    "kind_id": "305",
+    "kind_url": "/r/dqx/bazaar_list/top/305",
+    "materials": [
+      {
+        "material_require": "8",
+        "material_name": "晴れ呼びの笹",
+        "material_id": "2816",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/2816"
+      },
+      {
+        "material_require": "2",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "4",
+        "material_name": "小さなうろこ",
+        "material_id": "73",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/73"
+      }
+    ],
+    "id": "3131"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3130",
+    "kind_name": "錬金ツボ",
+    "item_name": "七夕の錬金ツボ",
+    "kind_id": "304",
+    "kind_url": "/r/dqx/bazaar_list/top/304",
+    "materials": [
+      {
+        "material_require": "8",
+        "material_name": "晴れ呼びの笹",
+        "material_id": "2816",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/2816"
+      },
+      {
+        "material_require": "2",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "4",
+        "material_name": "ガマのあぶら",
+        "material_id": "109",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/109"
+      }
+    ],
+    "id": "3130"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3134",
+    "kind_name": "家具",
+    "item_name": "蚊取りブタの置物・白",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "ようがんのカケラ",
+        "material_id": "26",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/26"
+      },
+      {
+        "material_require": "4",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "12",
+        "material_name": "晴れ呼びの笹",
+        "material_id": "2816",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/2816"
+      }
+    ],
+    "id": "3134"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3141",
+    "kind_name": "庭具",
+    "item_name": "スイカのタライ・銀",
+    "kind_id": "908",
+    "kind_url": "/r/dqx/bazaar_list/top/908",
+    "materials": [
+      {
+        "material_require": "1",
+        "material_name": "せいれいせき",
+        "material_id": "106",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/106"
+      },
+      {
+        "material_require": "4",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "12",
+        "material_name": "晴れ呼びの笹",
+        "material_id": "2816",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/2816"
+      }
+    ],
+    "id": "3141"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4422",
+    "kind_name": "鍛冶ハンマー",
+    "item_name": "星の鍛冶ハンマー",
+    "kind_id": "301",
+    "kind_url": "/r/dqx/bazaar_list/top/301",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "ようがんのカケラ",
+        "material_id": "26",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/26"
+      },
+      {
+        "material_require": "8",
+        "material_name": "星々のナミダ",
+        "material_id": "4407",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/4407"
+      }
+    ],
+    "id": "4422"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4423",
+    "kind_name": "木工刀",
+    "item_name": "星の木工刀",
+    "kind_id": "302",
+    "kind_url": "/r/dqx/bazaar_list/top/302",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "小さな化石",
+        "material_id": "13",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/13"
+      },
+      {
+        "material_require": "8",
+        "material_name": "星々のナミダ",
+        "material_id": "4407",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/4407"
+      }
+    ],
+    "id": "4423"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4424",
+    "kind_name": "さいほう針",
+    "item_name": "星のさいほう針",
+    "kind_id": "303",
+    "kind_url": "/r/dqx/bazaar_list/top/303",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "するどい爪",
+        "material_id": "21",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/21"
+      },
+      {
+        "material_require": "8",
+        "material_name": "星々のナミダ",
+        "material_id": "4407",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/4407"
+      }
+    ],
+    "id": "4424"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4429",
+    "kind_name": "フライパン",
+    "item_name": "星のフライパン",
+    "kind_id": "306",
+    "kind_url": "/r/dqx/bazaar_list/top/306",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "カチコチくるみ",
+        "material_id": "12",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/12"
+      },
+      {
+        "material_require": "8",
+        "material_name": "星々のナミダ",
+        "material_id": "4407",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/4407"
+      }
+    ],
+    "id": "4429"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4425",
+    "kind_name": "錬金ツボ",
+    "item_name": "星の錬金ツボ",
+    "kind_id": "304",
+    "kind_url": "/r/dqx/bazaar_list/top/304",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "へびのぬけがら",
+        "material_id": "111",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/111"
+      },
+      {
+        "material_require": "8",
+        "material_name": "星々のナミダ",
+        "material_id": "4407",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/4407"
+      }
+    ],
+    "id": "4425"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4426",
+    "kind_name": "錬金ランプ",
+    "item_name": "星の錬金ランプ",
+    "kind_id": "305",
+    "kind_url": "/r/dqx/bazaar_list/top/305",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "小さなこうら",
+        "material_id": "68",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/68"
+      },
+      {
+        "material_require": "8",
+        "material_name": "星々のナミダ",
+        "material_id": "4407",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/4407"
+      }
+    ],
+    "id": "4426"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4444",
+    "kind_name": "庭具",
+    "item_name": "スライム提灯",
+    "kind_id": "908",
+    "kind_url": "/r/dqx/bazaar_list/top/908",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "ホカホカストーン",
+        "material_id": "105",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/105"
+      },
+      {
+        "material_require": "12",
+        "material_name": "星々のナミダ",
+        "material_id": "4407",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/4407"
+      }
+    ],
+    "id": "4444"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4462",
+    "kind_name": "家具",
+    "item_name": "星くずの灯ろう・黄",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "ほしのカケラ",
+        "material_id": "102",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/102"
+      },
+      {
+        "material_require": "12",
+        "material_name": "星々のナミダ",
+        "material_id": "4407",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/4407"
+      }
+    ],
+    "id": "4462"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/732",
+    "kind_name": "鍛冶ハンマー",
+    "item_name": "鉄の鍛冶ハンマー",
+    "kind_id": "301",
+    "kind_url": "/r/dqx/bazaar_list/top/301",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "てっこうせき",
+        "material_id": "9",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/9"
+      },
+      {
+        "material_require": "2",
+        "material_name": "カチコチくるみ",
+        "material_id": "12",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/12"
+      }
+    ],
+    "id": "732"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4184",
+    "kind_name": "フライパン",
+    "item_name": "鉄のフライパン",
+    "kind_id": "306",
+    "kind_url": "/r/dqx/bazaar_list/top/306",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "てっこうせき",
+        "material_id": "9",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/9"
+      },
+      {
+        "material_require": "2",
+        "material_name": "こうもりのはね",
+        "material_id": "76",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/76"
+      }
+    ],
+    "id": "4184"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/1241",
+    "kind_name": "家具",
+    "item_name": "ごうかな花びん・緑",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "てっこうせき",
+        "material_id": "9",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/9"
+      },
+      {
+        "material_require": "2",
+        "material_name": "エルトナスイセン",
+        "material_id": "122",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/122"
+      }
+    ],
+    "id": "1241"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/744",
+    "kind_name": "錬金ツボ",
+    "item_name": "鉄の錬金ツボ",
+    "kind_id": "304",
+    "kind_url": "/r/dqx/bazaar_list/top/304",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "てっこうせき",
+        "material_id": "9",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/9"
+      },
+      {
+        "material_require": "1",
+        "material_name": "なないろのまゆ",
+        "material_id": "53",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/53"
+      }
+    ],
+    "id": "744"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/1242",
+    "kind_name": "家具",
+    "item_name": "ごうかなツボ・緑",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "てっこうせき",
+        "material_id": "9",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/9"
+      },
+      {
+        "material_require": "5",
+        "material_name": "ほしのカケラ",
+        "material_id": "102",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/102"
+      }
+    ],
+    "id": "1242"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/1243",
+    "kind_name": "家具",
+    "item_name": "ごうかオーガ胸像・緑",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "てっこうせき",
+        "material_id": "9",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/9"
+      },
+      {
+        "material_require": "5",
+        "material_name": "ひかりの石",
+        "material_id": "36",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/36"
+      }
+    ],
+    "id": "1243"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/741",
+    "kind_name": "さいほう針",
+    "item_name": "銀のさいほう針",
+    "kind_id": "303",
+    "kind_url": "/r/dqx/bazaar_list/top/303",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ヤシの実",
+        "material_id": "60",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/60"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "741"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/1168",
+    "kind_name": "家具",
+    "item_name": "ごうかよろい飾り・緑",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "てっこうせき",
+        "material_id": "9",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/9"
+      },
+      {
+        "material_require": "5",
+        "material_name": "どうのこうせき",
+        "material_id": "8",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/8"
+      }
+    ],
+    "id": "1168"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3285",
+    "kind_name": "さいほう針",
+    "item_name": "銀のさいほう針小",
+    "kind_id": "303",
+    "kind_url": "/r/dqx/bazaar_list/top/303",
+    "materials": [
+      {
+        "material_require": "1",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ヤシの実",
+        "material_id": "60",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/60"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ようせいの粉",
+        "material_id": "86",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/86"
+      }
+    ],
+    "id": "3285"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/738",
+    "kind_name": "木工刀",
+    "item_name": "銀の木工刀",
+    "kind_id": "302",
+    "kind_url": "/r/dqx/bazaar_list/top/302",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "2",
+        "material_name": "じょうぶな枝",
+        "material_id": "11",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/11"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "738"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3280",
+    "kind_name": "木工刀",
+    "item_name": "銀の木工刀小",
+    "kind_id": "302",
+    "kind_url": "/r/dqx/bazaar_list/top/302",
+    "materials": [
+      {
+        "material_require": "1",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "1",
+        "material_name": "じょうぶな枝",
+        "material_id": "11",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/11"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ようせいの粉",
+        "material_id": "86",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/86"
+      }
+    ],
+    "id": "3280"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/749",
+    "kind_name": "錬金ランプ",
+    "item_name": "銀の錬金ランプ",
+    "kind_id": "305",
+    "kind_url": "/r/dqx/bazaar_list/top/305",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "2",
+        "material_name": "みがきずな",
+        "material_id": "27",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/27"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "749"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3292",
+    "kind_name": "錬金ランプ",
+    "item_name": "銀の錬金ランプ小",
+    "kind_id": "305",
+    "kind_url": "/r/dqx/bazaar_list/top/305",
+    "materials": [
+      {
+        "material_require": "1",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "1",
+        "material_name": "みがきずな",
+        "material_id": "27",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/27"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ようせいの粉",
+        "material_id": "86",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/86"
+      }
+    ],
+    "id": "3292"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3518",
+    "kind_name": "家具",
+    "item_name": "ぶたさんの貯金箱",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "5",
+        "material_name": "ピンクパール",
+        "material_id": "81",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/81"
+      },
+      {
+        "material_require": "10",
+        "material_name": "まりょくの土",
+        "material_id": "18",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/18"
+      }
+    ],
+    "id": "3518"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/733",
+    "kind_name": "鍛冶ハンマー",
+    "item_name": "銀の鍛冶ハンマー",
+    "kind_id": "301",
+    "kind_url": "/r/dqx/bazaar_list/top/301",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "2",
+        "material_name": "げんこつダケ",
+        "material_id": "47",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/47"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "733"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3276",
+    "kind_name": "鍛冶ハンマー",
+    "item_name": "銀の鍛冶ハンマー小",
+    "kind_id": "301",
+    "kind_url": "/r/dqx/bazaar_list/top/301",
+    "materials": [
+      {
+        "material_require": "1",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "1",
+        "material_name": "げんこつダケ",
+        "material_id": "47",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/47"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ようせいの粉",
+        "material_id": "86",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/86"
+      }
+    ],
+    "id": "3276"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4171",
+    "kind_name": "ルアー",
+    "item_name": "ぎんのルアー",
+    "kind_id": "403",
+    "kind_url": "/r/dqx/bazaar_list/top/403",
+    "materials": [
+      {
+        "material_require": "3",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ふさふさの毛皮",
+        "material_id": "71",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/71"
+      },
+      {
+        "material_require": "5",
+        "material_name": "ようせいの粉",
+        "material_id": "86",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/86"
+      }
+    ],
+    "id": "4171"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4186",
+    "kind_name": "フライパン",
+    "item_name": "銀のフライパン小",
+    "kind_id": "306",
+    "kind_url": "/r/dqx/bazaar_list/top/306",
+    "materials": [
+      {
+        "material_require": "1",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "1",
+        "material_name": "サバンナウッド",
+        "material_id": "5",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/5"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ようせいの粉",
+        "material_id": "86",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/86"
+      }
+    ],
+    "id": "4186"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4185",
+    "kind_name": "フライパン",
+    "item_name": "銀のフライパン",
+    "kind_id": "306",
+    "kind_url": "/r/dqx/bazaar_list/top/306",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "2",
+        "material_name": "サバンナウッド",
+        "material_id": "5",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/5"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "4185"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/745",
+    "kind_name": "錬金ツボ",
+    "item_name": "銀の錬金ツボ",
+    "kind_id": "304",
+    "kind_url": "/r/dqx/bazaar_list/top/304",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ホカホカストーン",
+        "material_id": "105",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/105"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "745"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3288",
+    "kind_name": "錬金ツボ",
+    "item_name": "銀の錬金ツボ小",
+    "kind_id": "304",
+    "kind_url": "/r/dqx/bazaar_list/top/304",
+    "materials": [
+      {
+        "material_require": "1",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ホカホカストーン",
+        "material_id": "105",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/105"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ようせいの粉",
+        "material_id": "86",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/86"
+      }
+    ],
+    "id": "3288"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/742",
+    "kind_name": "さいほう針",
+    "item_name": "プラチナさいほう針",
+    "kind_id": "303",
+    "kind_url": "/r/dqx/bazaar_list/top/303",
+    "materials": [
+      {
+        "material_require": "5",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "4",
+        "material_name": "ウェナールシェル",
+        "material_id": "123",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/123"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ブルーアイ",
+        "material_id": "116",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/116"
+      },
+      {
+        "material_require": "4",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "742"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3286",
+    "kind_name": "さいほう針",
+    "item_name": "プラチナさいほ針小",
+    "kind_id": "303",
+    "kind_url": "/r/dqx/bazaar_list/top/303",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ウェナールシェル",
+        "material_id": "123",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/123"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ブルーアイ",
+        "material_id": "116",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/116"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "3286"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4649",
+    "kind_name": "家具",
+    "item_name": "ふわふわ雲のライト",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "20",
+        "material_name": "ぎんのこうせき",
+        "material_id": "10",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/10"
+      },
+      {
+        "material_require": "10",
+        "material_name": "きよめの水",
+        "material_id": "92",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/92"
+      },
+      {
+        "material_require": "4",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "4649"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/736",
+    "kind_name": "木工刀",
+    "item_name": "プラチナ木工刀",
+    "kind_id": "302",
+    "kind_url": "/r/dqx/bazaar_list/top/302",
+    "materials": [
+      {
+        "material_require": "5",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "4",
+        "material_name": "エルトナスイセン",
+        "material_id": "122",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/122"
+      },
+      {
+        "material_require": "1",
+        "material_name": "グリーンアイ",
+        "material_id": "118",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/118"
+      },
+      {
+        "material_require": "4",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "736"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/2959",
+    "kind_name": "家具",
+    "item_name": "赤い金魚と金魚鉢",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "ひかりの石",
+        "material_id": "36",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/36"
+      },
+      {
+        "material_require": "10",
+        "material_name": "小さなうろこ",
+        "material_id": "73",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/73"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      },
+      {
+        "material_require": "6",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      }
+    ],
+    "id": "2959"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3281",
+    "kind_name": "木工刀",
+    "item_name": "プラチナ木工刀小",
+    "kind_id": "302",
+    "kind_url": "/r/dqx/bazaar_list/top/302",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "1",
+        "material_name": "エルトナスイセン",
+        "material_id": "122",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/122"
+      },
+      {
+        "material_require": "1",
+        "material_name": "グリーンアイ",
+        "material_id": "118",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/118"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "3281"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/750",
+    "kind_name": "錬金ランプ",
+    "item_name": "プラチナ錬金ランプ",
+    "kind_id": "305",
+    "kind_url": "/r/dqx/bazaar_list/top/305",
+    "materials": [
+      {
+        "material_require": "5",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "4",
+        "material_name": "プクランサフラン",
+        "material_id": "121",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/121"
+      },
+      {
+        "material_require": "1",
+        "material_name": "パープルアイ",
+        "material_id": "119",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/119"
+      },
+      {
+        "material_require": "4",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "750"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3293",
+    "kind_name": "錬金ランプ",
+    "item_name": "プラチナのランプ小",
+    "kind_id": "305",
+    "kind_url": "/r/dqx/bazaar_list/top/305",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "1",
+        "material_name": "プクランサフラン",
+        "material_id": "121",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/121"
+      },
+      {
+        "material_require": "1",
+        "material_name": "パープルアイ",
+        "material_id": "119",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/119"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "3293"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/734",
+    "kind_name": "鍛冶ハンマー",
+    "item_name": "プラチナ鍛冶ハンマ",
+    "kind_id": "301",
+    "kind_url": "/r/dqx/bazaar_list/top/301",
+    "materials": [
+      {
+        "material_require": "5",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "4",
+        "material_name": "オグリドホーン",
+        "material_id": "120",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/120"
+      },
+      {
+        "material_require": "1",
+        "material_name": "レッドアイ",
+        "material_id": "115",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/115"
+      },
+      {
+        "material_require": "4",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "734"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3277",
+    "kind_name": "鍛冶ハンマー",
+    "item_name": "プラチナ鍛冶ハン小",
+    "kind_id": "301",
+    "kind_url": "/r/dqx/bazaar_list/top/301",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "1",
+        "material_name": "オグリドホーン",
+        "material_id": "120",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/120"
+      },
+      {
+        "material_require": "1",
+        "material_name": "レッドアイ",
+        "material_id": "115",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/115"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "3277"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4180",
+    "kind_name": "ルアー",
+    "item_name": "プラチナルアー",
+    "kind_id": "403",
+    "kind_url": "/r/dqx/bazaar_list/top/403",
+    "materials": [
+      {
+        "material_require": "5",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "5",
+        "material_name": "こうもりのはね",
+        "material_id": "76",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/76"
+      },
+      {
+        "material_require": "1",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "4180"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4188",
+    "kind_name": "フライパン",
+    "item_name": "プラチナフライパ小",
+    "kind_id": "306",
+    "kind_url": "/r/dqx/bazaar_list/top/306",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "1",
+        "material_name": "レンダーシード",
+        "material_id": "3912",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3912"
+      },
+      {
+        "material_require": "1",
+        "material_name": "スライムゼリー",
+        "material_id": "75",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/75"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "4188"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4187",
+    "kind_name": "フライパン",
+    "item_name": "プラチナフライパン",
+    "kind_id": "306",
+    "kind_url": "/r/dqx/bazaar_list/top/306",
+    "materials": [
+      {
+        "material_require": "5",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "4",
+        "material_name": "レンダーシード",
+        "material_id": "3912",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3912"
+      },
+      {
+        "material_require": "1",
+        "material_name": "スライムゼリー",
+        "material_id": "75",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/75"
+      },
+      {
+        "material_require": "4",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "4187"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/746",
+    "kind_name": "錬金ツボ",
+    "item_name": "プラチナ錬金ツボ",
+    "kind_id": "304",
+    "kind_url": "/r/dqx/bazaar_list/top/304",
+    "materials": [
+      {
+        "material_require": "5",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "4",
+        "material_name": "ドワチャカオイル",
+        "material_id": "114",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/114"
+      },
+      {
+        "material_require": "1",
+        "material_name": "イエローアイ",
+        "material_id": "117",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/117"
+      },
+      {
+        "material_require": "4",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "746"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/1169",
+    "kind_name": "さいほう針",
+    "item_name": "超さいほう針",
+    "kind_id": "303",
+    "kind_url": "/r/dqx/bazaar_list/top/303",
+    "materials": [
+      {
+        "material_require": "16",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "40",
+        "material_name": "赤いサンゴ",
+        "material_id": "91",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/91"
+      },
+      {
+        "material_require": "8",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "8",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "1169"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/1585",
+    "kind_name": "家具",
+    "item_name": "ハスの花ランプ・緑",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "氷のけっしょう",
+        "material_id": "35",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/35"
+      },
+      {
+        "material_require": "10",
+        "material_name": "ひかりの石",
+        "material_id": "36",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/36"
+      },
+      {
+        "material_require": "30",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "1585"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/1670",
+    "kind_name": "家具",
+    "item_name": "カラフル風船・赤黄",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "16",
+        "material_name": "氷のけっしょう",
+        "material_id": "35",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/35"
+      },
+      {
+        "material_require": "8",
+        "material_name": "なないろのまゆ",
+        "material_id": "53",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/53"
+      },
+      {
+        "material_require": "30",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "1670"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/1289",
+    "kind_name": "家具",
+    "item_name": "おもちゃの岩",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "てっこうせき",
+        "material_id": "9",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/9"
+      },
+      {
+        "material_require": "8",
+        "material_name": "ほしのカケラ",
+        "material_id": "102",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/102"
+      },
+      {
+        "material_require": "20",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "1289"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/1287",
+    "kind_name": "家具",
+    "item_name": "おもちゃのトンネル",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "てっこうせき",
+        "material_id": "9",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/9"
+      },
+      {
+        "material_require": "8",
+        "material_name": "ひかりの石",
+        "material_id": "36",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/36"
+      },
+      {
+        "material_require": "20",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "1287"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/1288",
+    "kind_name": "家具",
+    "item_name": "おもちゃの池",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "10",
+        "material_name": "てっこうせき",
+        "material_id": "9",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/9"
+      },
+      {
+        "material_require": "8",
+        "material_name": "さざなみのしずく",
+        "material_id": "94",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/94"
+      },
+      {
+        "material_require": "20",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "3",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "1288"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/2609",
+    "kind_name": "家具",
+    "item_name": "月球儀",
+    "kind_id": "904",
+    "kind_url": "/r/dqx/bazaar_list/top/904",
+    "materials": [
+      {
+        "material_require": "30",
+        "material_name": "ほしのカケラ",
+        "material_id": "102",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/102"
+      },
+      {
+        "material_require": "30",
+        "material_name": "みがきずな",
+        "material_id": "27",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/27"
+      },
+      {
+        "material_require": "4",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      },
+      {
+        "material_require": "10",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      }
+    ],
+    "id": "2609"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3289",
+    "kind_name": "錬金ツボ",
+    "item_name": "プラチナ錬金ツボ小",
+    "kind_id": "304",
+    "kind_url": "/r/dqx/bazaar_list/top/304",
+    "materials": [
+      {
+        "material_require": "2",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ドワチャカオイル",
+        "material_id": "114",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/114"
+      },
+      {
+        "material_require": "1",
+        "material_name": "イエローアイ",
+        "material_id": "117",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/117"
+      },
+      {
+        "material_require": "1",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "3289"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/3284",
+    "kind_name": "さいほう針",
+    "item_name": "超さいほう針小",
+    "kind_id": "303",
+    "kind_url": "/r/dqx/bazaar_list/top/303",
+    "materials": [
+      {
+        "material_require": "4",
+        "material_name": "プラチナこうせき",
+        "material_id": "20",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/20"
+      },
+      {
+        "material_require": "10",
+        "material_name": "赤いサンゴ",
+        "material_id": "91",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/91"
+      },
+      {
+        "material_require": "2",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "3284"
+  },
+  {
+    "item_url": "/r/dqx/bazaar_list_histories/detail/4181",
+    "kind_name": "ルアー",
+    "item_name": "マデュライトルアー",
+    "kind_id": "403",
+    "kind_url": "/r/dqx/bazaar_list/top/403",
+    "materials": [
+      {
+        "material_require": "7",
+        "material_name": "マデュライト",
+        "material_id": "3578",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/3578"
+      },
+      {
+        "material_require": "7",
+        "material_name": "にじいろの布きれ",
+        "material_id": "110",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/110"
+      },
+      {
+        "material_require": "2",
+        "material_name": "汗と涙の結晶",
+        "material_id": "1398",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/1398"
+      },
+      {
+        "material_require": "2",
+        "material_name": "ようせいのひだね",
+        "material_id": "88",
+        "material_url": "/r/dqx/bazaar_list_histories/detail/88"
+      }
+    ],
+    "id": "4181"
+  }
+]
