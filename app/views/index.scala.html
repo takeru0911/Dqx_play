@@ -1,0 +1,67 @@
+
+@main("Welcome to Play") {
+  <link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/index.css")">
+  <div id="app">
+    <ul id="category">
+      <li class="category-name" data-toggle="collapse" data-target="#items" v-repeat="categoryList" v-on="click:clickCategoryName($index)">
+	{{name}}
+      </li>
+    </ul>
+    <div class="panel panel-default">
+      <div id="items" class="panel-collapse collapse">
+	<div class="panel-body">
+	</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    'use strict';
+    window.app = new Vue({
+      el: '#app',
+      data: {
+	categoryList: [
+	  {name: "片手剣"},
+	  {name: "両手剣"},
+	  {name: "遏ｭ蜑｣"},
+	  {name: "荳｡謇区摶"},
+	  {name: "繧ｹ繝�繧｣繝�繧ｯ"},
+	  {name: "繝上Φ繝槭�ｼ"},
+	  {name: "繝､繝ｪ"}
+	],
+	itemList: ''
+	preSelectCategory : '',
+	curSelectCategory: ''
+      },
+      ready:function(){
+	var self = this;
+
+	$('#items').on('hidden.bs.collapse', function () {
+	  if(self.$data.preSelectCategory !== self.$data.curSelectCategory){
+	    self.fetchItemList(self.$data.curSelectedCategory);
+	    $('#items').collapse('show');
+	  }
+	});
+	for(var i = 0; i < 31; i++){
+ 	  this.$data.itemList = fetchItemList(i);
+	}
+
+
+
+      },
+      methods:{
+	fetchItemList: function(id){
+
+	},
+	clickCategoryName: function(id){
+	  if(this.$data.curSelectCategory !== ''){
+	    this.$data.preSelectCategory = this.$data.curSelectCategory;
+	  }
+          this.$data.curSelectCategory = id;
+	}
+      }
+    })
+  })();
+  </script>
+}
