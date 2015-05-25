@@ -1,67 +1,217 @@
+@(rootCategories: List[RootCategory]) @main("Welcome to Play") {
+<link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/index.css")">
+<div id="app">
+	<nav class="navbar navbar-default">
+		<div class="container-fluid">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<ul class="nav navbar-nav">
+				@for((rootCategory, i) <- rootCategories.zipWithIndex ){
+				<li class="dropdown"><a href="#" class="dropdown-toggle"
+					data-toggle="dropdown" role="button" aria-expanded="false">@rootCategory.name
+						<span class="caret"></span>
+				</a>
+					<ul class="dropdown-menu" role="menu">
+						<li v-repeat="categoryList[@{i}].data">
+							<div data-toggle="modal" v-on="click: clickCategoryName(this)" data-target="#itemModal">
+								{{id}}{{category_name}}
+							</div>
+						</li>
+					</ul></li> }
+			</ul>
+			<!-- /.navbar-collapse -->
+		</div>
+		<!-- /.container-fluid -->
+	</nav>
+	<!-- Modal -->
+	<div class="modal fade" id="itemModal" tabindex="-1" role="dialog"
+		aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal"
+						aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+					<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+				</div>
+				<div class="modal-body">
+					<ul>
+						<li v-repeat="itemList" v-on="click: clickItemName(this)">
+							{{name}}
+						</li>
+					</ul>
 
-@main("Welcome to Play") {
-  <link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/index.css")">
-  <div id="app">
-    <ul id="category">
-      <li class="category-name" data-toggle="collapse" data-target="#items" v-repeat="categoryList" v-on="click:clickCategoryName($index)">
-	{{name}}
-      </li>
-    </ul>
-    <div class="panel panel-default">
-      <div id="items" class="panel-collapse collapse">
-	<div class="panel-body">
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-primary">Save changes</button>
+				</div>
+			</div>
+		</div>
 	</div>
-      </div>
-    </div>
-  </div>
-
-  <script>
+    <h2> {{itemName}} </h2>
+	<div id="chartdiv"></div>
+</div>
+<script src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+<script src="http://www.amcharts.com/lib/3/serial.js"></script>
+<script src="http://www.amcharts.com/lib/3/themes/light.js"></script>
+<script>
   (function(){
-    'use strict';
-    window.app = new Vue({
-      el: '#app',
-      data: {
-	categoryList: [
-	  {name: "片手剣"},
-	  {name: "両手剣"},
-	  {name: "遏ｭ蜑｣"},
-	  {name: "荳｡謇区摶"},
-	  {name: "繧ｹ繝�繧｣繝�繧ｯ"},
-	  {name: "繝上Φ繝槭�ｼ"},
-	  {name: "繝､繝ｪ"}
-	],
-	itemList: ''
-	preSelectCategory : '',
-	curSelectCategory: ''
-      },
-      ready:function(){
-	var self = this;
+	    'use strict';
+	    window.app = new Vue({
+	      el: '#app',
+	      data: {
+	    	categoryList: '',
+			itemList: '',
+			preSelectCategory : '',
+			curSelectCategory: '',
+			itemMarketData : '',
+			itemName :'',
+			chart: ''
 
-	$('#items').on('hidden.bs.collapse', function () {
-	  if(self.$data.preSelectCategory !== self.$data.curSelectCategory){
-	    self.fetchItemList(self.$data.curSelectedCategory);
-	    $('#items').collapse('show');
-	  }
-	});
-	for(var i = 0; i < 31; i++){
- 	  this.$data.itemList = fetchItemList(i);
-	}
+	      },
+	      ready:function(){
+			var self = this;
+			this.fetchALLCategoryList().done(function(data){
+					self.$data.categoryList = [
+									{"id" : 1 ,"data": data[1]},
+									{"id" : 2 ,"data": data[2]},
+									{"id" : 3 ,"data": data[3]},
+									{"id" : 4 ,"data": data[4]},
+									{"id" : 5 ,"data": data[5]}];
+			})
 
-
-
-      },
+	      },
       methods:{
-	fetchItemList: function(id){
+    	fetchALLCategoryList: function(){
+    		return $.ajax({
+    			type: "GET",
+    			url: "/play/category/"
+    		});
+    	},
+		fetchItemList: function(id){
+			return $.ajax({
+				type: "GET",
+				url: "/play/item/category/" + id + "/"
+			});
+		},
+		clickCategoryName: function(obj){
+			var id = obj.$data.id;
+			var self = this;
+	  		if(this.$data.curSelectCategory !== ''){
+	    		this.$data.preSelectCategory = this.$data.curSelectCategory;
+	  		}
+	  		this.fetchItemList(id).done(function(data){
+	  			self.$data.curSelectCategory = id;
+	  			self.$data.itemList = data;
+	  		});
+		},
+		clickItemName: function(obj){
+			var self = this;
+			var id = obj.$data.id;
+			this.$data.itemName = obj.$data.name;
+			this.fetchItemMarketData(id).done(function(data){
+				self.$data.itemMarketData = [
+				                             {"star": 0, "data": data[0]},
+				                             {"star": 1, "data": data[1]},
+				                             {"star": 2, "data": data[2]},
+				                             {"star": 3, "data": data[3]}
+				                             ];
+				self.makeChart();
+			});
+		},
+		makeChart: function(){
+			var chartData = [];
+			chartData.push({
+				star0: this.$data.itemMarketData[0].data,
+				star1: this.$data.itemMarketData[1].data,
+				star2: this.$data.itemMarketData[2].data
 
-	},
-	clickCategoryName: function(id){
-	  if(this.$data.curSelectCategory !== ''){
-	    this.$data.preSelectCategory = this.$data.curSelectCategory;
-	  }
-          this.$data.curSelectCategory = id;
-	}
+			})
+			this.$data.chart = 	 AmCharts.makeChart("chartdiv", {
+			    "type": "serial",
+			    "theme": "light",
+			    "path": "http://www.amcharts.com/lib/3/",
+			    "legend": {
+			        "useGraphSettings": true
+			    },
+			    "dataProvider": chartData,
+			    "valueAxes": [{
+			        "id":"v1",
+			        "axisColor": "#FF6600",
+			        "axisThickness": 2,
+			        "gridAlpha": 0,
+			        "axisAlpha": 1,
+			        "position": "left"
+			    }, {
+			        "id":"v2",
+			        "axisColor": "#FCD202",
+			        "axisThickness": 2,
+			        "gridAlpha": 0,
+			        "axisAlpha": 1,
+			        "position": "right"
+			    }, {
+			        "id":"v3",
+			        "axisColor": "#B0DE09",
+			        "axisThickness": 2,
+			        "gridAlpha": 0,
+			        "offset": 50,
+			        "axisAlpha": 1,
+			        "position": "left"
+			    }],
+			    "graphs": [{
+			        "valueAxis": "v1",
+			        "lineColor": "#FF6600",
+			        "bullet": "round",
+			        "bulletBorderThickness": 1,
+			        "hideBulletsCount": 30,
+			        "title": "red line",
+			        "valueField": "visits",
+					"fillAlphas": 0
+			    }, {
+			        "valueAxis": "v2",
+			        "lineColor": "#FCD202",
+			        "bullet": "square",
+			        "bulletBorderThickness": 1,
+			        "hideBulletsCount": 30,
+			        "title": "yellow line",
+			        "valueField": "hits",
+					"fillAlphas": 0
+			    }, {
+			        "valueAxis": "v3",
+			        "lineColor": "#B0DE09",
+			        "bullet": "triangleUp",
+			        "bulletBorderThickness": 1,
+			        "hideBulletsCount": 30,
+			        "title": "green line",
+			        "valueField": "views",
+					"fillAlphas": 0
+			    }],
+			    "chartScrollbar": {},
+			    "chartCursor": {
+			        "cursorPosition": "mouse"
+			    },
+			    "categoryField": "date",
+			    "categoryAxis": {
+			        "parseDates": true,
+			        "axisColor": "#DADADA",
+			        "minorGridEnabled": true
+			    },
+			    "export": {
+			    	"enabled": true,
+			        "position": "bottom-right"
+			     }
+			});
+		},
+		fetchItemMarketData: function(id){
+			return $.ajax({
+				type: "GET",
+				url : "/play/item/" + id + "/market/"
+			});
+		}
       }
-    })
+	})
   })();
   </script>
+
 }
